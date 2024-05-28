@@ -16,7 +16,7 @@ This project is a simple implementation of the classic two-player Tic-Tac-Toe ga
 - **Winning Detection:** Automatically checks for a winner after each turn.
 - **Input Validation:** Ensures players enter valid moves.
 - **Game Reset:** Option to restart the game after a win or draw.
-- **Turn Indicator:** Clearly indicates which player's turn it is.
+- **Smooth Player Transition:** Seamless switching between players ensures uninterrupted gameplay.
 - **Score Tracking:** Keeps track of wins for each player across multiple games.
 - **Minimal Dependencies:** No need for external libraries beyond the Python standard library.
 
